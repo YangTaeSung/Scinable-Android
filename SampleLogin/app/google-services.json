@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62433544963",
+    "firebase_url": "https://samplelogin-9e44a.firebaseio.com",
+    "project_id": "samplelogin-9e44a",
+    "storage_bucket": "samplelogin-9e44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62433544963:android:b96b7b6ab9644bfd",
+        "android_client_info": {
+          "package_name": "org.techtown.samplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62433544963-9vr4gtlme0limpdj1fksa389f3batvv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.samplelogin",
+            "certificate_hash": "28e9ff92407902fa3a54e53fbfc814011c4ca691"
+          }
+        },
+        {
+          "client_id": "62433544963-mp3ds74b2gnv96q3an76cs382t4knd76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIT9CIufQOWrd1l3hpDFkEZTIJMg_Yu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62433544963-mp3ds74b2gnv96q3an76cs382t4knd76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

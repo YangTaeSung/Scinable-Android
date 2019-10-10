@@ -1,0 +1,4 @@
+#Fri Aug 30 16:30:36 JST 2019
+base.0=C\:\\Users\\Duke\\AndroidStudioProjects\\SampleLogin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
