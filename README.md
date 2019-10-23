@@ -1,3 +1,3 @@
 # Scinable-Android
 ## Outline
-Android practice working in Scinable overseas internship
+Android programming exercises I worked on in Scinable international internship program
