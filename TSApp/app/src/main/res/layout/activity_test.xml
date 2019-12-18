@@ -25,6 +25,7 @@
             tools:ignore="ContentDescription" />
     </com.google.android.material.bottomappbar.BottomAppBar>
 
+
     <!--
       This is where your expandable content will be present. One
       way of using it would be to add a Fragment inside the layout
@@ -37,6 +38,5 @@
     <me.saket.inboxrecyclerview.page.ExpandablePageLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-    //android:background="@color/window_background" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
