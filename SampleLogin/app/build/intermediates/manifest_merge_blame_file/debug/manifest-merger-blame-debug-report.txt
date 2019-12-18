@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+8-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+9-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 12-->[com.google.android.gms:play-services-measurement-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\bde5eb0318f54afaebfddfd7744e500c\play-services-measurement-api-17.0.1\AndroidManifest.xml:23:5-79
 12-->[com.google.android.gms:play-services-measurement-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\bde5eb0318f54afaebfddfd7744e500c\play-services-measurement-api-17.0.1\AndroidManifest.xml:23:22-76
@@ -27,34 +27,34 @@
 15-->[com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:26:22-107
 16
 17    <application
-17-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:7:5-21:19
+17-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:7:5-21:19
 18        android:allowBackup="true"
-18-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:8:9-35
+18-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:8:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\241b89e013db22b59a4d22b3f2fa0913\core-1.0.1\AndroidManifest.xml:22:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
-21-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:9:9-43
+21-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:9:9-43
 22        android:label="@string/app_name"
-22-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:10:9-41
+22-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:10:9-41
 23        android:roundIcon="@mipmap/ic_launcher_round"
-23-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:11:9-54
+23-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:11:9-54
 24        android:supportsRtl="true"
-24-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:12:9-35
+24-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:12:9-35
 25        android:theme="@style/AppTheme" >
-25-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:13:9-40
+25-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:13:9-40
 26        <activity android:name="org.techtown.samplelogin.MainActivity" >
-26-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:14:9-20:20
-26-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:14:19-47
+26-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:14:9-20:20
+26-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:14:19-47
 27            <intent-filter>
-27-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:15:13-19:29
+27-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:15:13-19:29
 28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:16:17-69
-28-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:16:25-66
+28-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:16:17-69
+28-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:16:25-66
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:18:17-77
-30-->C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:18:27-74
+30-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:18:17-77
+30-->C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:18:27-74
 31            </intent-filter>
 32        </activity>
 33        <activity
@@ -204,11 +204,11 @@
 112-->[com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\00e5133ada4e4b6c1eb7cdee65f6b9b8\firebase-common-18.0.0\AndroidManifest.xml:16:13-36
 113
 114        <meta-data
-114-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+114-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 115            android:name="com.google.android.gms.version"
-115-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+115-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
 116            android:value="@integer/google_play_services_version" />
-116-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+116-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 117    </application>
 118
 119</manifest>
