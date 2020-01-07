@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\85e257a6babe96d3b8085bcd76499598\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-analytics:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f739abbdbe1771572353e0509bfef6ca\firebase-analytics-17.0.1\AndroidManifest.xml:2:1-9:12
@@ -21,9 +21,13 @@ MERGED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\D
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\bfe393baab2fa01b1bcbb62d1de424a3\play-services-measurement-sdk-17.0.1\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\00e5133ada4e4b6c1eb7cdee65f6b9b8\firebase-common-18.0.0\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\8a33a6bcb39787128557280c6f457c70\play-services-measurement-base-17.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\1cbd3b0b2910c69c982ed3cdc1333c00\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\9e4e6f5711ca759ffddddb3201840211\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\33904a9952e04540992fd4e899a6e29f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -49,35 +53,39 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Duke\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f5e5093a6d2ffb564f346d2769a020dc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\c92e9c6549150a4bd8eb347f54ac769d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e542a78b280a084fd48769af2f842423\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\bde5eb0318f54afaebfddfd7744e500c\play-services-measurement-api-17.0.1\AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\bde5eb0318f54afaebfddfd7744e500c\play-services-measurement-api-17.0.1\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\856a947c1a9c6ebc4d2fc0c2fb4dbece\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\856a947c1a9c6ebc4d2fc0c2fb4dbece\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:7:5-21:19
+ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:7:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f739abbdbe1771572353e0509bfef6ca\firebase-analytics-17.0.1\AndroidManifest.xml:7:5-20
@@ -104,12 +112,20 @@ MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\c
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\00e5133ada4e4b6c1eb7cdee65f6b9b8\firebase-common-18.0.0\AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\8a33a6bcb39787128557280c6f457c70\play-services-measurement-base-17.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\8a33a6bcb39787128557280c6f457c70\play-services-measurement-base-17.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\241b89e013db22b59a4d22b3f2fa0913\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\241b89e013db22b59a4d22b3f2fa0913\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\0150aea6f0427790b968ac16d0f01a76\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
@@ -117,35 +133,35 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Du
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\241b89e013db22b59a4d22b3f2fa0913\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:13:9-40
 activity#org.techtown.samplelogin.MainActivity
-ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\85e257a6babe96d3b8085bcd76499598\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\85e257a6babe96d3b8085bcd76499598\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
@@ -180,12 +196,20 @@ MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\c
 MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\00e5133ada4e4b6c1eb7cdee65f6b9b8\firebase-common-18.0.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\8a33a6bcb39787128557280c6f457c70\play-services-measurement-base-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\8a33a6bcb39787128557280c6f457c70\play-services-measurement-base-17.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\1cbd3b0b2910c69c982ed3cdc1333c00\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\1cbd3b0b2910c69c982ed3cdc1333c00\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\9e4e6f5711ca759ffddddb3201840211\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
@@ -236,16 +260,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Duke\.gradle\caches
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\c92e9c6549150a4bd8eb347f54ac769d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e542a78b280a084fd48769af2f842423\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e542a78b280a084fd48769af2f842423\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Duke\AndroidStudioProjects\SampleLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duke\Desktop\ken\Scinable-Android\SampleLogin\app\src\main\AndroidManifest.xml
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\a7cc4eb4ea872e0a137f636ff5499755\firebase-auth-18.0.0\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -302,6 +326,10 @@ MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Duke\.gradle\cach
 MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\856a947c1a9c6ebc4d2fc0c2fb4dbece\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\bde5eb0318f54afaebfddfd7744e500c\play-services-measurement-api-17.0.1\AndroidManifest.xml:23:22-76
 uses-permission#android.permission.WAKE_LOCK
@@ -310,6 +338,10 @@ MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Duke\.gradle\cach
 MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\856a947c1a9c6ebc4d2fc0c2fb4dbece\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:25:5-68
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\bde5eb0318f54afaebfddfd7744e500c\play-services-measurement-api-17.0.1\AndroidManifest.xml:24:22-65
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
@@ -352,6 +384,10 @@ ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Duke\.gra
 		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:26:5-110
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
@@ -364,6 +400,10 @@ ADDED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Du
 		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
 ADDED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\895850673c0f324b83bbc28dd883a50b\play-services-measurement-impl-17.0.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\70dcb0b542e9a9cd0075815f79dd0e4c\play-services-measurement-sdk-api-17.0.1\AndroidManifest.xml:29:9-37:20
 	android:enabled
 		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\146d983f68704dae9fb924750805fa0a\play-services-measurement-17.0.1\AndroidManifest.xml:36:13-35
 	android:exported
@@ -407,8 +447,8 @@ ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\ca
 	android:name
 		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\00e5133ada4e4b6c1eb7cdee65f6b9b8\firebase-common-18.0.0\AndroidManifest.xml:13:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\b04289626fa15dff4d06ef12f739f13a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Duke\.gradle\caches\transforms-2\files-2.1\e6c7c04add3357bf14d72278c20fc7b6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

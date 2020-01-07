@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <me.saket.inboxrecyclerview.InboxRecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.google.android.material.bottomappbar.BottomAppBar
+        android:id="@+id/inbox_bottomappbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <ImageButton
+            android:id="@+id/inbox_settings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="16dp"
+            tools:ignore="ContentDescription" />
+    </com.google.android.material.bottomappbar.BottomAppBar>
+
+
+    <!--
+      This is where your expandable content will be present. One
+      way of using it would be to add a Fragment inside the layout
+      and update it when any list item is clicked.
+
+      It's recommended that the content page has a higher z-index
+      than the list. This can be achieved by either giving it a
+      higher view position or a higher elevation.
+    -->
+    <me.saket.inboxrecyclerview.page.ExpandablePageLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
