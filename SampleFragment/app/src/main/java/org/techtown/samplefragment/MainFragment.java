@@ -21,8 +21,9 @@ public class MainFragment extends Fragment {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                // 프래그먼트에서는 getActivity()메서드를 호출하면 프래그먼트가 올라가 있는 액티비티가 어떤 것인지 확인할 수 있습니다.
                 MainActivity activity = (MainActivity) getActivity();
-                activity.onFragmentChanged(0);
+                activity.onFragmentChanged(0); // 프래그먼트는 액티비티에서 관리하니까 액티비티에서 변환
             }
         });
 
